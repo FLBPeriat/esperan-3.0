@@ -1,2 +1,7 @@
-# esperant-3.0
-an public-interactive programming language developed by and for the github community
+# Git-Hub Community Project esperant-3.0
+
+This repositery is open and target, in a first time, for each ones who want too contributes for a new programming language, and after it, it will evenly be open for all. The diverging part (i.e.: front vs back) can be two global library for example, however I do not take the decision, even the project name is temporary.
+
+you to play
+
+ 
